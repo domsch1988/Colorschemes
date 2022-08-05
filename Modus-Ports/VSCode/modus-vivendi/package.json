@@ -1,0 +1,21 @@
+{
+    "name": "modus-vivendi",
+    "displayName": "Modus Vivendi",
+    "description": "Modus Vivendi Port for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Modus Vivendi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Modus Vivendi-color-theme.json"
+            }
+        ]
+    }
+}
